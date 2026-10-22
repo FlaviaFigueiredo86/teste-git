@@ -2,19 +2,19 @@ Projeto de Testes Git
 
 Objetivo 
 
-Praticar o uso do Git, a criaÁ„o de branches e os commits sem‚nticos.
+Praticar o uso do Git, a cria√ß√£o de branches e os commits sem√¢nticos.
 
 
-DescriÁ„o
+Descri√ß√£o
 
-Este projeto faz parte de uma atividade para aprender a controlar versıes e organizar alteraÁıes em um projeto.
+Este projeto faz parte de uma atividade para aprender a controlar vers√µes e organizar altera√ß√µes em um projeto.
 
-# Tecnologias utilizadas
+Tecnologias utilizadas
 
 - Git
 - GitHub
 - Visual Studio Code
 
-## Aprendizados
+Aprendizados
 
-Aprendi a criar branches e registrar alteraÁıes com commits sem‚nticos.
+Aprendi a criar branches e registrar altera√ß√µes com commits sem√¢nticos.
